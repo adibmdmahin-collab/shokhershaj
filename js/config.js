@@ -7,3 +7,5 @@ window.SHOKHER_CONFIG = {
   NOTIFY_ORDER_FUNCTION: 'notify-order',
   SUPPORT_CHAT_FUNCTION: 'support-chat'
 };
+
+ // Trigger Cloudflare Pages deployment
